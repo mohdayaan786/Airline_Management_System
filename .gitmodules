@@ -1,15 +1,15 @@
 [submodule "API_Gateway"]
 	path = API_Gateway
-	url = https://github.com/mohdayaan786/Airline_Management_System.git
+	url = https://github.com/mohdayaan786/API_Gateway
 [submodule "AuthService"]
 	path = AuthService
-	url = https://github.com/mohdayaan786/Airline_Management_System.git
+	url = https://github.com/mohdayaan786/Auth_Service
 [submodule "BookingService"]
 	path = BookingService
-	url = https://github.com/mohdayaan786/Airline_Management_System.git
+	url = https://github.com/mohdayaan786/AirTicketBookingService
 [submodule "FlightsAndSearch"]
 	path = FlightsAndSearch
-	url = https://github.com/mohdayaan786/Airline_Management_System.git
+	url = https://github.com/mohdayaan786/FlightsAndSearchService
 [submodule "RemainderService"]
 	path = RemainderService
-	url = https://github.com/mohdayaan786/Airline_Management_System.git
+	url = https://github.com/mohdayaan786/Remainder_Service.git
