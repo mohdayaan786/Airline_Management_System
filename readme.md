@@ -30,7 +30,7 @@ The system is built using **four microservices** and an **API Gateway**:
 | Email Service   | **Nodemailer** |
 | Job Scheduling  | **node-cron** |
 | API Gateway     | **Express.js, Rate Limiting** |
-| Deployment      | **AWS** |
+| Deployment      | **AWS EC2** |
 
 ---
 
